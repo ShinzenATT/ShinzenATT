@@ -28,7 +28,6 @@ Hello I'm Shinz and I am an engineering student in computer science and techonol
 ### Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ShinzenATT&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinzenATT&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/ShinzenATT2
