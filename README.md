@@ -1,6 +1,6 @@
-# Profile info |ShinzenATT 
+# Profile info | ShinzenATT 
 Hello I'm Shinz and I am an engineering student in computer science and techonology. Still somewhat a newbie at programming but I am learning. I find the UWP, UNO -, and WearOS platform pretty interesting.
-### Aditional trivia
+### Additional trivia
 - I currently study in Chalmers University of Technology
 - My pronouns are He/Him (if you care about that stuff)
 - Currently learning C#, Javascript and Assembly
