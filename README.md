@@ -28,6 +28,7 @@ Hello I'm Shinz and I am an engineering student in computer science and techonol
 ### Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ShinzenATT&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime](https://wakatime.com/badge/user/53fb229b-d6c8-4ee4-8592-c1aa087e5019.svg)](https://wakatime.com/@53fb229b-d6c8-4ee4-8592-c1aa087e5019)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShinzenATT&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinzenATT&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
