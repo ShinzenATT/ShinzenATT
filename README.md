@@ -1,18 +1,8 @@
 # Profile info | ShinzenATT 
-Hello I'm Shinz and I am an engineering student in computer science and techonology. Still somewhat a newbie at programming but I am learning. I find the UWP, UNO -, and WearOS platform pretty interesting.
-### Additional trivia
-- I currently study in Chalmers University of Technology
-- My pronouns are He/Him (if you care about that stuff)
-- Currently learning C#, Javascript and Assembly
-- Currently a young adult (age range 18-25)
-### Social Media and Chat platforms
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
-[<img align="left" alt="codeSTACKr | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+Hello I'm Shinz and I am an engineering student in computer science and techonology. I live in Gothenburg Sweden and work hard on studies as well as some of my projects! I have even deticated some of my efforts to student assocations. I enjoy web development, api development and even full-stack application development!
 <br>
-## Github and coding
-### Languages and Tools
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/ShinzenATT/ShinzenATT/d96cc81752e8a1a17dca1800fc56c210cb82d3ed/Visual_Studio_Code_1.35_icon.svg" />
+
+### Languages and Tools I have used
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
