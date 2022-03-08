@@ -23,6 +23,7 @@ Hello I'm Shinz and I am an engineering student in computer science and techonol
 <img align="left" title="Arch Linux" alt="Arch Linux" width="30px" src="https://raw.githubusercontent.com/ShinzenATT/ShinzenATT/master/arch-linux.png" />
 
 <br>
+<br>
 
 ### Stats
 
