@@ -3,15 +3,24 @@ Hello I'm Shinz and I am an engineering student in computer science and techonol
 <br>
 
 ### Languages and Tools I have used
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="PHP" height="26px" src="https://raw.githubusercontent.com/ShinzenATT/ShinzenATT/4937a4ad9857a9abbd536729882c367c539908fc/PHP-logo.svg" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Java" height="26px" src="https://github.com/ShinzenATT/ShinzenATT/blob/master/java-icon.png?raw=true" />
-<img align="left" alt="C#" width="30px" src="https://github.com/ShinzenATT/ShinzenATT/blob/master/c-logo-icon-18.png?raw=true" />
+<img align="left" title="HTML5" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" title="CSS3" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" title="JavaScript" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" title="TypeScript" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/ShinzenATT/ShinzenATT/master/ts-logo.png" />
+<img align="left" title="Node.js" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" title="Vue.js" alt="Vue.js" width="26px" src="https://raw.githubusercontent.com/ShinzenATT/ShinzenATT/master/vue-logo.png" />
+<img align="left" title="PHP" alt="PHP" height="26px" src="https://raw.githubusercontent.com/ShinzenATT/ShinzenATT/4937a4ad9857a9abbd536729882c367c539908fc/PHP-logo.svg" />
+<img align="left" title="MySQL" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" title="PostgreSQL" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/ShinzenATT/ShinzenATT/master/postgresql.png" />
+<img align="left" title="Git" alt="Git" width="26px" src="https://raw.githubusercontent.com/ShinzenATT/ShinzenATT/master/git.png" />
+<img align="left" title="Java" alt="Java" height="28px" src="https://github.com/ShinzenATT/ShinzenATT/blob/master/java-icon.png?raw=true" />
+<img align="left" title="JavaFX" alt="JavaFX" height="26px" src="https://raw.githubusercontent.com/ShinzenATT/ShinzenATT/master/javafx.png" />
+<img align="left" title="Gradle" alt="Gradle" height="26px" src="https://raw.githubusercontent.com/ShinzenATT/ShinzenATT/master/gradle.png" />
+<img align="left" title="Kotlin" alt="Kotlin" height="26px" src="https://raw.githubusercontent.com/ShinzenATT/ShinzenATT/master/kotlin.png" />
+<img align="left" title="C#" alt="C#" width="30px" src="https://github.com/ShinzenATT/ShinzenATT/blob/master/c-logo-icon-18.png?raw=true" />
+<img align="left" title="C" alt="C" width="30px" src="https://raw.githubusercontent.com/ShinzenATT/ShinzenATT/master/c-logo.png" />
+<img align="left" title="ARM Architecture" alt="ARM Architecture" width="28px" src="https://raw.githubusercontent.com/ShinzenATT/ShinzenATT/master/arm.jpeg" />
+<img align="left" title="Arch Linux" alt="Arch Linux" width="30px" src="https://raw.githubusercontent.com/ShinzenATT/ShinzenATT/master/arch-linux.png" />
 
 <br>
 
