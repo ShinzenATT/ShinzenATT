@@ -19,7 +19,6 @@ Hello I'm Shinz and I am an engineering student in computer science and techonol
 <img align="left" title="Kotlin" alt="Kotlin" height="26px" src="https://raw.githubusercontent.com/ShinzenATT/ShinzenATT/master/kotlin.png" />
 <img align="left" title="C#" alt="C#" width="30px" src="https://github.com/ShinzenATT/ShinzenATT/blob/master/c-logo-icon-18.png?raw=true" />
 <img align="left" title="C" alt="C" width="30px" src="https://raw.githubusercontent.com/ShinzenATT/ShinzenATT/master/c-logo.png" />
-<img align="left" title="ARM Architecture" alt="ARM Architecture" width="28px" src="https://raw.githubusercontent.com/ShinzenATT/ShinzenATT/master/arm.jpeg" />
 <img align="left" title="Arch Linux" alt="Arch Linux" width="30px" src="https://raw.githubusercontent.com/ShinzenATT/ShinzenATT/master/arch-linux.png" />
 
 <br>
@@ -29,13 +28,9 @@ Hello I'm Shinz and I am an engineering student in computer science and techonol
 
 [![wakatime badge](https://wakatime.com/badge/user/53fb229b-d6c8-4ee4-8592-c1aa087e5019.svg)](https://wakatime.com/@53fb229b-d6c8-4ee4-8592-c1aa087e5019)
 <br>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ShinzenATT&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-[![shinzenatt's weekly wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShinzenATT&layout=compact&custom_title=Weekly%20Wakatime%20stats&range=last_7_days)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinzenATT&layout=compact&theme=buefy&langs_count=10&custom_title=Languages%20across%20repos)](https://github.com/anuraghazra/github-readme-stats)
-
-[twitter]: https://twitter.com/ShinzenATT2
-[steam]: https://steamcommunity.com/id/shinzenatt/
-[discord]: https://discord.gg/TyCXKrJ
+<img style="width: 60%;" src="https://github-readme-stats.vercel.app/api?username=ShinzenATT&count_private=true&show_icons=true&theme=buefy"/>
+<img style="width: 38%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinzenATT&layout=compact&theme=buefy&langs_count=10&custom_title=Languages%20across%20repos"/>
+<img style="width: 60%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=ShinzenATT&layout=compact&custom_title=Weekly%20Wakatime%20stats&range=last_7_days"/>
 <!--
 **ShinzenATT/ShinzenATT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
