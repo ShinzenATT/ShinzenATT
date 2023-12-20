@@ -30,7 +30,7 @@ Hello I'm Shinz and I am an engineering student in computer science and techonol
 <br>
 <img style="width: 60%;" src="https://github-readme-stats.vercel.app/api?username=ShinzenATT&count_private=true&show_icons=true&theme=buefy"/>
 <img style="width: 38%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinzenATT&layout=compact&theme=buefy&langs_count=10&custom_title=Languages%20across%20repos"/>
-<img style="width: 60%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=ShinzenATT&layout=compact&custom_title=Weekly%20Wakatime%20stats&range=last_7_days"/>
+<img style="width: 60%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=ShinzenATT&layout=compact&custom_title=Wakatime%20stats&langs_count=10"/>
 <!--
 **ShinzenATT/ShinzenATT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
