@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  gh-stats:
     runs-on: ubuntu-latest
     name: Github Stats
     permissions:
@@ -27,3 +27,13 @@ jobs:
           EXCLUDE: "TeX,Makefile"
           # AUTO_PUSH is optional, a boolean variable default to true, whether automatically push generated files to desired branch 
           AUTO_PUSH: true
+  wakatime:
+    name: Wakatime stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: tariksahni/coding-stats-wakatime@v1.0.0
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME }}
+          SHOW_MONTHLY: true
+          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_ACTION: ${{ github.action }}
