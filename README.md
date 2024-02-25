@@ -13,6 +13,18 @@ Hello, my name is Alen and I am currently a backend developer that dabbles a bit
 [![wakatime badge](https://wakatime.com/badge/user/53fb229b-d6c8-4ee4-8592-c1aa087e5019.svg)](https://wakatime.com/@53fb229b-d6c8-4ee4-8592-c1aa087e5019)
 <br>
 <!--START_SECTION:waka-->
+
+```txt
+From: 25 January 2024 - To: 24 February 2024
+
+Total Time: 75 hrs 7 mins
+
+Java                   55 hrs 8 mins   ███████████░░░░░░░░░░░░░░   44.25 %
+XML                    5 hrs 48 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
+GraphQL                3 hrs 19 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+Kotlin                 2 hrs 44 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
