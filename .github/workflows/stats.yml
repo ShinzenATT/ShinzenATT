@@ -35,7 +35,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME }}
           TIME_RANGE: last_6_months
-          IGNORED_LANGUAGES: Binary YAML JSON TOML Other
+          IGNORED_LANGUAGES: Binary YAML JSON TOML Other XML
           SHOW_TOTAL: true
           SHOW_TITLE: true
           SHOW_TIME: true
