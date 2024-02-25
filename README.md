@@ -1,36 +1,20 @@
 # Profile info | ShinzenATT 
-Hello I'm Shinz and I am an engineering student in computer science and techonology. I live in Gothenburg Sweden and work hard on studies as well as some of my projects! I have even deticated some of my efforts to student assocations. I enjoy web development, api development and even full-stack application development!
-<br>
-
-### Languages and Tools I have used
-<img align="left" title="HTML5" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" title="CSS3" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" title="JavaScript" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" title="TypeScript" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/ShinzenATT/ShinzenATT/master/ts-logo.png" />
-<img align="left" title="Node.js" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" title="Vue.js" alt="Vue.js" width="26px" src="https://raw.githubusercontent.com/ShinzenATT/ShinzenATT/master/vue-logo.png" />
-<img align="left" title="PHP" alt="PHP" height="26px" src="https://raw.githubusercontent.com/ShinzenATT/ShinzenATT/4937a4ad9857a9abbd536729882c367c539908fc/PHP-logo.svg" />
-<img align="left" title="MySQL" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" title="PostgreSQL" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/ShinzenATT/ShinzenATT/master/postgresql.png" />
-<img align="left" title="Git" alt="Git" width="26px" src="https://raw.githubusercontent.com/ShinzenATT/ShinzenATT/master/git.png" />
-<img align="left" title="Java" alt="Java" height="28px" src="https://github.com/ShinzenATT/ShinzenATT/blob/master/java-icon.png?raw=true" />
-<img align="left" title="JavaFX" alt="JavaFX" height="26px" src="https://raw.githubusercontent.com/ShinzenATT/ShinzenATT/master/javafx.png" />
-<img align="left" title="Gradle" alt="Gradle" height="26px" src="https://raw.githubusercontent.com/ShinzenATT/ShinzenATT/master/gradle.png" />
-<img align="left" title="Kotlin" alt="Kotlin" height="26px" src="https://raw.githubusercontent.com/ShinzenATT/ShinzenATT/master/kotlin.png" />
-<img align="left" title="C#" alt="C#" width="30px" src="https://github.com/ShinzenATT/ShinzenATT/blob/master/c-logo-icon-18.png?raw=true" />
-<img align="left" title="C" alt="C" width="30px" src="https://raw.githubusercontent.com/ShinzenATT/ShinzenATT/master/c-logo.png" />
-<img align="left" title="Arch Linux" alt="Arch Linux" width="30px" src="https://raw.githubusercontent.com/ShinzenATT/ShinzenATT/master/arch-linux.png" />
-
-<br>
-<br>
+Hello, my name is Alen and I am currently a backend developer that dabbles a bit in frontend too. When I am not workin then I like to make websites or create apps for platofrms that lack them. And to have an excuse to indulge in modern languages such as Kotlin!
 
 ### Stats
+[![](https://raw.githubusercontent.com/ShinzenATT/ShinzenATT/master/profile-summary-card-output/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ShinzenATT/ShinzenATT/master/profile-summary-card-output/transparent/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+[![](https://raw.githubusercontent.com/ShinzenATT/ShinzenATT/master/profile-summary-card-output/transparent/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ShinzenATT/ShinzenATT/master/profile-summary-card-output/transparent/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+[![](https://raw.githubusercontent.com/ShinzenATT/ShinzenATT/master/profile-summary-card-output/transparent/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+
+#### Wakatime Stats
 [![wakatime badge](https://wakatime.com/badge/user/53fb229b-d6c8-4ee4-8592-c1aa087e5019.svg)](https://wakatime.com/@53fb229b-d6c8-4ee4-8592-c1aa087e5019)
 <br>
-<img style="width: 60%;" src="https://github-readme-stats.vercel.app/api?username=ShinzenATT&count_private=true&show_icons=true&theme=buefy"/>
-<img style="width: 38%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinzenATT&layout=compact&theme=buefy&langs_count=10&custom_title=Languages%20across%20repos"/>
-<img style="width: 60%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=ShinzenATT&layout=compact&custom_title=Wakatime%20stats&langs_count=10"/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **ShinzenATT/ShinzenATT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
