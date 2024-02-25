@@ -34,7 +34,7 @@ jobs:
       - uses: athul/waka-readme@master # this action name
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME }}
-          TIME_RANGE: last_30_days
+          TIME_RANGE: last_6_months
           IGNORED_LANGUAGES: Binary YAML JSON TOML Other
           SHOW_TOTAL: true
           SHOW_TITLE: true
