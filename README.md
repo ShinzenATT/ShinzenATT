@@ -13,7 +13,7 @@ Hello, my name is Alen and I am currently a backend developer that dabbles a bit
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2023 - To: 30 June 2024
+From: 07 January 2024 - To: 07 July 2024
 
 Total Time: 314 hrs 34 mins
 
