@@ -13,13 +13,13 @@ Hello, my name is Alen and I am currently a backend developer that dabbles a bit
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 May 2024 - To: 17 November 2024
+From: 26 May 2024 - To: 24 November 2024
 
-Total Time: 235 hrs 20 mins
+Total Time: 234 hrs 44 mins
 
-Java                149 hrs 41 mins ██████▓░░░░░░░░░░░░░░░░░░   26.59 %
-Kotlin              13 hrs 41 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
-Bash                8 hrs 24 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+Java                148 hrs 55 mins ██████▓░░░░░░░░░░░░░░░░░░   26.30 %
+Kotlin              13 hrs 41 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+Bash                8 hrs 20 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
 ```
 
 <!--END_SECTION:waka-->
